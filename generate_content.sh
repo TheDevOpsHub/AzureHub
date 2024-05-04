@@ -50,7 +50,8 @@ for service in $services; do
   faq_url=$(_jq '.faq_url')
 
   # Update the service README.md content
-  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ❔ [$service_short_name/faqs]($faq_url)|" >>README.md
+  # echo "| $id | $service_name | 📖 [$service_short_name]($url) | ❔ [$service_short_name/faqs]($faq_url)|" >>README.md
+  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ❔ TODO |" >>README.md
 
   # Increment ID
   ((id++))
