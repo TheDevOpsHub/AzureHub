@@ -1,10 +1,104 @@
 {
 	"services": [
 		{
+			"service_name": "Azure Virtual Machines",
+			"service_url": "https://docs.microsoft.com/en-us/azure/virtual-machines/",
+			"service_short_name": "virtual-machines"
+		},
+		{
+			"service_name": "Azure App Service",
+			"service_url": "https://docs.microsoft.com/en-us/azure/app-service/",
+			"service_short_name": "app-service"
+		},
+		{
+			"service_name": "Azure Functions",
+			"service_url": "https://docs.microsoft.com/en-us/azure/azure-functions/",
+			"service_short_name": "azure-functions"
+		},
+		{
+			"service_name": "Azure Kubernetes Service (AKS)",
+			"service_url": "https://docs.microsoft.com/en-us/azure/aks/",
+			"service_short_name": "aks"
+		},
+		{
 			"service_name": "Azure Blob Storage",
-			"service_url": "https://learn.microsoft.com/en-us/azure/storage/blobs",
-			"service_short_name": "blobs",
-			"faq_url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-faq"
+			"service_url": "https://docs.microsoft.com/en-us/azure/storage/blobs/",
+			"service_short_name": "blobs"
+		},
+		{
+			"service_name": "Azure SQL Database",
+			"service_url": "https://docs.microsoft.com/en-us/azure/azure-sql/",
+			"service_short_name": "sql-database"
+		},
+		{
+			"service_name": "Azure Cosmos DB",
+			"service_url": "https://docs.microsoft.com/en-us/azure/cosmos-db/",
+			"service_short_name": "cosmos-db"
+		},
+		{
+			"service_name": "Azure Active Directory",
+			"service_url": "https://docs.microsoft.com/en-us/azure/active-directory/",
+			"service_short_name": "active-directory"
+		},
+		{
+			"service_name": "Azure DevOps",
+			"service_url": "https://docs.microsoft.com/en-us/azure/devops/",
+			"service_short_name": "devops"
+		},
+		{
+			"service_name": "Azure Logic Apps",
+			"service_url": "https://docs.microsoft.com/en-us/azure/logic-apps/",
+			"service_short_name": "logic-apps"
+		},
+		{
+			"service_name": "Azure Cognitive Services",
+			"service_url": "https://docs.microsoft.com/en-us/azure/cognitive-services/",
+			"service_short_name": "cognitive-services"
+		},
+		{
+			"service_name": "Azure Machine Learning",
+			"service_url": "https://docs.microsoft.com/en-us/azure/machine-learning/",
+			"service_short_name": "machine-learning"
+		},
+		{
+			"service_name": "Azure Databricks",
+			"service_url": "https://docs.microsoft.com/en-us/azure/databricks/",
+			"service_short_name": "databricks"
+		},
+		{
+			"service_name": "Azure Data Factory",
+			"service_url": "https://docs.microsoft.com/en-us/azure/data-factory/",
+			"service_short_name": "data-factory"
+		},
+		{
+			"service_name": "Azure Key Vault",
+			"service_url": "https://docs.microsoft.com/en-us/azure/key-vault/",
+			"service_short_name": "key-vault"
+		},
+		{
+			"service_name": "Azure Monitor",
+			"service_url": "https://docs.microsoft.com/en-us/azure/azure-monitor/",
+			"service_short_name": "monitor"
+		},
+		{
+			"service_name": "Azure Security Center",
+			"service_url": "https://docs.microsoft.com/en-us/azure/security-center/",
+			"service_short_name": "security-center"
+		},
+		{
+			"service_name": "Azure Firewall",
+			"service_url": "https://docs.microsoft.com/en-us/azure/firewall/",
+			"service_short_name": "firewall"
+		},
+		{
+			"service_name": "Azure Virtual Network",
+			"service_url": "https://docs.microsoft.com/en-us/azure/virtual-network/",
+			"service_short_name": "virtual-network"
+		},
+		{
+			"service_name": "Azure CDN (Content Delivery Network)",
+			"service_url": "https://docs.microsoft.com/en-us/azure/cdn/",
+			"service_short_name": "cdn"
 		}
 	]
 }
