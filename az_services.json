@@ -1,0 +1,10 @@
+{
+	"services": [
+		{
+			"service_name": "Azure Blob Storage",
+			"service_url": "https://learn.microsoft.com/en-us/azure/storage/blobs",
+			"service_short_name": "blobs",
+			"faq_url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-faq"
+		}
+	]
+}
