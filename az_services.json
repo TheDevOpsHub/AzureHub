@@ -99,6 +99,51 @@
 			"service_name": "Azure CDN (Content Delivery Network)",
 			"service_url": "https://docs.microsoft.com/en-us/azure/cdn/",
 			"service_short_name": "cdn"
+		},
+		{
+			"service_name": "Azure Functions",
+			"service_url": "https://docs.microsoft.com/en-us/azure/azure-functions/",
+			"service_short_name": "azure-functions"
+		},
+		{
+			"service_name": "Azure Batch",
+			"service_url": "https://docs.microsoft.com/en-us/azure/batch/",
+			"service_short_name": "batch"
+		},
+		{
+			"service_name": "Azure Event Grid",
+			"service_url": "https://docs.microsoft.com/en-us/azure/event-grid/",
+			"service_short_name": "event-grid"
+		},
+		{
+			"service_name": "Azure CDN (Content Delivery Network)",
+			"service_url": "https://docs.microsoft.com/en-us/azure/cdn/",
+			"service_short_name": "cdn"
+		},
+		{
+			"service_name": "Azure API Management",
+			"service_url": "https://docs.microsoft.com/en-us/azure/api-management/",
+			"service_short_name": "api-management"
+		},
+		{
+			"service_name": "Azure Search",
+			"service_url": "https://docs.microsoft.com/en-us/azure/search/",
+			"service_short_name": "search"
+		},
+		{
+			"service_name": "Azure IoT Hub",
+			"service_url": "https://docs.microsoft.com/en-us/azure/iot-hub/",
+			"service_short_name": "iot-hub"
+		},
+		{
+			"service_name": "Azure Stream Analytics",
+			"service_url": "https://docs.microsoft.com/en-us/azure/stream-analytics/",
+			"service_short_name": "stream-analytics"
+		},
+		{
+			"service_name": "Azure Traffic Manager",
+			"service_url": "https://learn.microsoft.com/en-us/azure/traffic-manager/",
+			"service_short_name": "traffic-manager"
 		}
 	]
 }
