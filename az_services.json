@@ -96,11 +96,6 @@
 			"service_short_name": "virtual-network"
 		},
 		{
-			"service_name": "Azure CDN (Content Delivery Network)",
-			"service_url": "https://docs.microsoft.com/en-us/azure/cdn/",
-			"service_short_name": "cdn"
-		},
-		{
 			"service_name": "Azure Functions",
 			"service_url": "https://docs.microsoft.com/en-us/azure/azure-functions/",
 			"service_short_name": "azure-functions"
