@@ -71,6 +71,10 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 
 - Tutorials Dojo - Azure Cheat Sheets: https://tutorialsdojo.com/microsoft-azure-cheat-sheets/
 
+### Azure Certifications Sub-Reddit
+
+- [**r/AzureCertification**](https://www.reddit.com/r/AzureCertification/) brings in your discussions, questions , opinions, news and comments around Azure certifications areas like prep tips, clarifications, lessons learned.
+
 ### Specific Azure Certification resources
 
 |     | ID        | Certification Name                                 | Learning path                             |
