@@ -6,7 +6,6 @@
 
 - What is Azure? ➡️ [**Watch here**](https://youtu.be/oPSHs71mTVU)
 - Azure Documentation: 📖 [**Explore here**](https://learn.microsoft.com/en-us/azure/?product=popular)
-- Azure Architecture: 📖 [**Explore here**](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 - Azure Portal: [**Explore here**](https://portal.azure.com/#home)
 
 <!-- Learning-Resource-Begin -->
@@ -80,3 +79,9 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 |     | ID        | Certification Name                                 | Learning path                             |
 | --- | --------- | -------------------------------------------------- | ----------------------------------------- |
 | 1   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
+
+## Azure Training
+- https://learn.microsoft.com/en-us/training/azure/
+
+## Arzure Architecture Center
+- Azure Architecture: 📖 [**Explore here**](https://learn.microsoft.com/en-us/azure/architecture/browse/)
