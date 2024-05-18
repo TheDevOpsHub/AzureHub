@@ -65,7 +65,7 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 ### Free Exam Preparation
 
 - Certification exam preparation by Azure: [**here**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
-- Study guide: [Study guide for Exam](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/)
+- Study guide: [Study guide for Exam](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
 
 ### Guides/Cheat Sheets
 
