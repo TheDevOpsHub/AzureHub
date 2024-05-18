@@ -57,3 +57,22 @@ And **more upcoming services content...⏩** you can star/follow this repository
 
 <!-- Do not edit the below line manually -->
 <!-- Learning-Resource-End -->
+
+## Azure Certification Resources 💯
+
+Preparing for the AWS Certification Exam? Here are my top personal recommendations for learning resources:
+
+### Free Exam Preparation
+
+- Certification exam preparation by Azure: [**here**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
+- Study guide: [Study guide for Exam](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/)
+
+### Guides/Cheat Sheets
+
+- Tutorials Dojo - Azure Cheat Sheets: https://tutorialsdojo.com/microsoft-azure-cheat-sheets/
+
+### Specific Azure Certification resources
+
+|     | ID        | Certification Name                                 | Learning path                             |
+| --- | --------- | -------------------------------------------------- | ----------------------------------------- |
+| 1   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
