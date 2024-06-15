@@ -41,6 +41,14 @@
 
 - https://learn.microsoft.com/en-us/training/azure/
 
-## Arzure Architecture Center
+## Azure Architecture Center
 
 - Azure Architecture: 📖 [**Explore here**](https://learn.microsoft.com/en-us/azure/architecture/browse/)
+
+## Learn Azure on Youtube
+
+Some popular Youtube channels to learn Azure
+
+- Adam Marczak - Azure for Everyone: https://www.youtube.com/@AdamMarczakYT
+- John Savill's Technical Training: https://www.youtube.com/@NTFAQGuy
+- A Guide To Cloud: https://www.youtube.com/@AGuideToCloud
