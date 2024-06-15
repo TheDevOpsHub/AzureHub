@@ -69,4 +69,4 @@ Some popular Youtube channels to learn Azure
 
 ## What's next?
 
-We will keep updating this repository content to latest resources and changes ⏩ you can star/follow this repository to get more up-to-dated content ⭐
+We will keep updating this repository with the latest resources and changes. If you would like to contribute more useful resources, please open a PR, and we will review it to add to the list. Thanks 💖
