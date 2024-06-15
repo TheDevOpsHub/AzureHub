@@ -1,6 +1,10 @@
-# AzureHub
+<h1 align="center">Azure Hub ☁️</h1>
+<p align="center">☁️ Collection of Azure documentation and learning resources 👋</p>
 
-☁️ Collection of Azure documentation and learning resources
+<p align="center">
+<a href="https://img.shields.io/github/last-commit/TheDevOpsHub/AzureHub/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/TheDevOpsHub/AzureHub/main" /></a>
+<a href="https://github.com/TheDevOpsHub/AzureHub/releases"><img alt="AzureHub release" src="https://img.shields.io/github/release/TheDevOpsHub/AzureHub.svg" /></a>
+</p>
 
 ## Getting started 🚀
 
