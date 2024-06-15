@@ -11,7 +11,7 @@
 ## Azure Services Learning Resources 📘
 
 - This section provides links to detailed documentation, introduction videos, and FAQs for popular Azure services
-- For the full Azure services learning resources, visit: [here](./Azure_Services.md)
+- For the full Azure services learning resources, visit: [**Azure_Services.md**](./Azure_Services.md)
 
 ## Azure Certification Resources 💯
 
