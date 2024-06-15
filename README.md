@@ -18,7 +18,7 @@
 
 ## Azure Certification Resources 💯
 
-Preparing for the AWS Certification Exam? Here are my top personal recommendations for learning resources:
+- Preparing for the AWS Certification Exam? Here are my top personal recommendations for learning resources:
 
 ### Free Exam Preparation
 
