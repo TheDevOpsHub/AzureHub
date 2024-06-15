@@ -52,3 +52,10 @@ Some popular Youtube channels to learn Azure
 - Adam Marczak - Azure for Everyone: https://www.youtube.com/@AdamMarczakYT
 - John Savill's Technical Training: https://www.youtube.com/@NTFAQGuy
 - A Guide To Cloud: https://www.youtube.com/@AGuideToCloud
+
+## Github Resources
+
+- Microsoft Learning: https://github.com/MicrosoftLearning
+- johnthebrit/CertificationMaterials: https://github.com/johnthebrit/CertificationMaterials
+
+And more upcoming services content...⏩ you can star/follow this repository to get more up-to-dated content ⭐
