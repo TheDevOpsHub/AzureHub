@@ -8,9 +8,6 @@
 - Azure Documentation: 📖 [**Explore here**](https://learn.microsoft.com/en-us/azure/?product=popular)
 - Azure Portal: [**Explore here**](https://portal.azure.com/#home)
 
-<!-- Learning-Resource-Begin -->
-<!-- Do not edit the above line manually -->
-
 ## Azure Services Learning Resources 📘
 
 - This section provides links to detailed documentation, introduction videos, and FAQs for popular Azure services
