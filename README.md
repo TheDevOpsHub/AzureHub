@@ -39,7 +39,7 @@
 
 And more upcoming certification resources ⏩ ...
 
-## Azure Training
+## Azure Training 📚
 
 - https://learn.microsoft.com/en-us/training/azure/
 
@@ -47,7 +47,7 @@ And more upcoming certification resources ⏩ ...
 
 - Azure Architecture: 📖 [**Explore here**](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 
-## Learn Azure on Youtube
+## Learn Azure on Youtube ▶️
 
 Some popular Youtube channels to learn Azure
 
@@ -55,7 +55,7 @@ Some popular Youtube channels to learn Azure
 - John Savill's Technical Training: https://www.youtube.com/@NTFAQGuy
 - A Guide To Cloud: https://www.youtube.com/@AGuideToCloud
 
-## Github Resources
+## Github Resources :octocat:
 
 - Microsoft Learning: https://github.com/MicrosoftLearning
 - johnthebrit/CertificationMaterials: https://github.com/johnthebrit/CertificationMaterials
