@@ -13,13 +13,8 @@
 
 ## Azure Services Learning Resources 📘
 
-This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services
-
-- **Total services covered:** **28**
-- **Azure Docs:** Official documentation for each service
-- **Azure FAQs:** Frequently asked questions about Azure services
-
-For the full Azure services learning resources, visit: [here](./Azure_Services.md)
+- This section provides links to detailed documentation, introduction videos, and FAQs for popular Azure services
+- For the full Azure services learning resources, visit: [here](./Azure_Services.md)
 
 ## Azure Certification Resources 💯
 
@@ -42,7 +37,8 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 
 |     | ID        | Certification Name                                 | Learning path                             |
 | --- | --------- | -------------------------------------------------- | ----------------------------------------- |
-| 1   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
+| 1   | Azure 900 | Microsoft Certified: Azure Fundamentals            | 📖 [az-900.md](./certification/az-900.md) |
+| 2   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
 
 ## Azure Training
 
