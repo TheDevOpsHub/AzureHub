@@ -37,9 +37,9 @@
 | 1   | Azure 900 | Microsoft Certified: Azure Fundamentals            | 📖 [az-900.md](./certification/az-900.md) |
 | 2   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
 
-And more upcoming certification resources...⏩ you can star/follow this repository to get more up-to-dated content ⭐
+And more upcoming certification resources ⏩ ...
 
-## Azure Training
+## Azure Training 📚
 
 - https://learn.microsoft.com/en-us/training/azure/
 
@@ -47,7 +47,7 @@ And more upcoming certification resources...⏩ you can star/follow this reposit
 
 - Azure Architecture: 📖 [**Explore here**](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 
-## Learn Azure on Youtube
+## Learn Azure on Youtube ▶️
 
 Some popular Youtube channels to learn Azure
 
@@ -55,7 +55,7 @@ Some popular Youtube channels to learn Azure
 - John Savill's Technical Training: https://www.youtube.com/@NTFAQGuy
 - A Guide To Cloud: https://www.youtube.com/@AGuideToCloud
 
-## Github Resources
+## Github Resources :octocat:
 
 - Microsoft Learning: https://github.com/MicrosoftLearning
 - johnthebrit/CertificationMaterials: https://github.com/johnthebrit/CertificationMaterials
@@ -66,3 +66,7 @@ Some popular Youtube channels to learn Azure
 - If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
 - Looking for the issue to work on? Check the list of our open issues good first issue
 - Feel free to open a new issue or let us know if you want to request more content about Azure
+
+## What's next?
+
+We will keep updating this repository with the latest resources and changes. If you would like to contribute more useful resources, please open a PR, and we will review it to add to the list. Thanks 💖
