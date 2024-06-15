@@ -17,25 +17,27 @@
 
 - Preparing for the AWS Certification Exam? Here are my top personal recommendations for learning resources:
 
-### Free Exam Preparation
+### 1. Free Exam Preparation
 
 - Certification exam preparation by Azure: [**here**](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
 - Study guide: [Study guide for Exam](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
 
-### Guides/Cheat Sheets
+### 2. Guides/Cheat Sheets
 
 - Tutorials Dojo - Azure Cheat Sheets: https://tutorialsdojo.com/microsoft-azure-cheat-sheets/
 
-### Azure Certifications Sub-Reddit
+### 3. Azure Certifications Sub-Reddit
 
 - [**r/AzureCertification**](https://www.reddit.com/r/AzureCertification/) brings in your discussions, questions , opinions, news and comments around Azure certifications areas like prep tips, clarifications, lessons learned.
 
-### Specific Azure Certification resources
+### 4. Specific Azure Certification resources
 
 |     | ID        | Certification Name                                 | Learning path                             |
 | --- | --------- | -------------------------------------------------- | ----------------------------------------- |
 | 1   | Azure 900 | Microsoft Certified: Azure Fundamentals            | 📖 [az-900.md](./certification/az-900.md) |
 | 2   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
+
+And more upcoming certification resources...⏩ you can star/follow this repository to get more up-to-dated content ⭐
 
 ## Azure Training
 
@@ -58,4 +60,9 @@ Some popular Youtube channels to learn Azure
 - Microsoft Learning: https://github.com/MicrosoftLearning
 - johnthebrit/CertificationMaterials: https://github.com/johnthebrit/CertificationMaterials
 
-And more upcoming services content...⏩ you can star/follow this repository to get more up-to-dated content ⭐
+## Contributing
+
+- See: [CONTRIBUTING.md](./CONTRIBUTING.md)
+- If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
+- Looking for the issue to work on? Check the list of our open issues good first issue
+- Feel free to open a new issue or let us know if you want to request more content about Azure
