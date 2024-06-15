@@ -37,7 +37,7 @@
 | 1   | Azure 900 | Microsoft Certified: Azure Fundamentals            | 📖 [az-900.md](./certification/az-900.md) |
 | 2   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
 
-And more upcoming certification resources...⏩ you can star/follow this repository to get more up-to-dated content ⭐
+And more upcoming certification resources ⏩ ...
 
 ## Azure Training
 
@@ -66,3 +66,7 @@ Some popular Youtube channels to learn Azure
 - If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
 - Looking for the issue to work on? Check the list of our open issues good first issue
 - Feel free to open a new issue or let us know if you want to request more content about Azure
+
+## What's next?
+
+We will keep updating this repository content to latest resources and changes ⏩ you can star/follow this repository to get more up-to-dated content ⭐
