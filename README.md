@@ -40,6 +40,7 @@
 | --- | --------- | -------------------------------------------------- | ----------------------------------------- |
 | 1   | Azure 900 | Microsoft Certified: Azure Fundamentals            | 📖 [az-900.md](./certification/az-900.md) |
 | 2   | Azure 104 | Microsoft Certified: Azure Administrator Associate | 📖 [az-104.md](./certification/az-104.md) |
+| 3   | Azure 400 | Microsoft Certified: DevOps Engineer Expert        | 📖 [az-400.md](./certification/az-400.md) |
 
 And more upcoming certification resources ⏩ ...
 
